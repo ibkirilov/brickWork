@@ -80,7 +80,7 @@ public class Wall {
     }
 
     /**
-     * this class searches for maximum connections possible.
+     * this method searches for maximum connections possible.
      *
      * @return
      */
